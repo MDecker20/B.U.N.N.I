@@ -5,7 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/anime/Documents/Unreal Projects/BUNNI_Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/Ai/BP_Exp.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VG/3LO2CKHPGUI01UDI1QRZ7G.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/AF/6R7F2SO1EA2G518F0APYON.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Y0/RCLH5B76S26YVSFYFUK5J0.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5W/YLY8F4SBGG8RN2UY0VATDH.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/4S/REOVKD4XDDN3I9M79BTSUF.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FA/QWDW8V1NKTZS0YAVGHQPJE.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/J3/4P0VVPHROVBDLIIO1Y3HT0.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_PuzzleGate.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_PuzzleItem.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/Ai/BP_Roaming.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VK/YFM2VN0CMXJV1CEQMQVXAI.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D5/SYSU6GWSDROVO636IIAH6Q.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/UC/F99IQQKR575W6BV91UKUIJ.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/BluePrints/PauseMenu.uasset",
+				"C:/Users/anime/Documents/Unreal Projects/MyProject2/Content/Ai/B_AI_Enemy.uasset"
 			]
 		}
 	]
