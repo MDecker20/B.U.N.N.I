@@ -3414,3 +3414,39 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.23-01.01.43:136][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4A98B648_Auto8
 [2024.02.23-01.01.43:136][690]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_4A98B648_Auto8ACB2E324B44118AD9F11E881DDCFA08.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4A98B648_Auto8.uasset'
 [2024.02.23-01.01.43:138][690]LogFileHelpers: Auto-saving content packages took 0.101
+[2024.02.23-01.03.11:571][923]Cmd: EDIT COPY
+[2024.02.23-01.04.06:826][261]Cmd: EDIT COPY
+[2024.02.23-01.04.38:162][798]Cmd: EDIT COPY
+[2024.02.23-01.04.59:078][963]Cmd: EDIT COPY
+[2024.02.23-01.05.25:231][564]Cmd: EDIT COPY
+[2024.02.23-01.05.27:210][612]Cmd: EDIT COPY
+[2024.02.23-01.05.35:588][823]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.23-01.05.35:601][823]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.23-01.07.04:874][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-01.07.04:950][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IQ/I07AXKW3VHIIQ4WDUHPV3M
+[2024.02.23-01.07.04:951][284]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/I07AXKW3VHIIQ4WDUHPV3M4AFF92614CDE72393A3C1882B6C4243E.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IQ/I07AXKW3VHIIQ4WDUHPV3M.uasset'
+[2024.02.23-01.07.04:953][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GD/5NABXUMYHTSSL66TBI25DQ
+[2024.02.23-01.07.04:954][284]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/5NABXUMYHTSSL66TBI25DQF89100B942DDEE5BCDF3029FA5A8065F.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GD/5NABXUMYHTSSL66TBI25DQ.uasset'
+[2024.02.23-01.07.04:956][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1C/T8O94B7YLUYIHFU2TVFH9I
+[2024.02.23-01.07.04:958][284]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/T8O94B7YLUYIHFU2TVFH9I970C2A9A45E44F9E816792BF428C7496.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1C/T8O94B7YLUYIHFU2TVFH9I.uasset'
+[2024.02.23-01.07.04:961][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H9/0U6ZZKG9BC3OOK5GPZ9323
+[2024.02.23-01.07.04:962][284]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/0U6ZZKG9BC3OOK5GPZ9323DDF4A2344851FFF267B1388EBCCBF1E0.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H9/0U6ZZKG9BC3OOK5GPZ9323.uasset'
+[2024.02.23-01.07.04:964][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/A1/PUQP40YS4Y0OZHNI8XSS9F
+[2024.02.23-01.07.04:965][284]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/PUQP40YS4Y0OZHNI8XSS9F87B38274430365F80BC0539AC3C41027.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/A1/PUQP40YS4Y0OZHNI8XSS9F.uasset'
+[2024.02.23-01.07.04:979][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.49 sec)
+[2024.02.23-01.07.04:981][284]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.23-01.07.04:981][284]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23D3DB01_1935168562
+[2024.02.23-01.07.04:981][284]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23D0DB01_1378413032
+[2024.02.23-01.07.04:981][284]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23CFDB01_1500104855
+[2024.02.23-01.07.04:981][284]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23D4DB01_1117493740
+[2024.02.23-01.07.04:981][284]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23D2DB01_1855246385
+[2024.02.23-01.07.22:677][555]Cmd: EDIT COPY
+[2024.02.23-01.07.47:201][746]LogSlate: Window 'FBX Export Options' being destroyed
+[2024.02.23-01.07.47:319][746]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2024.02.23-01.07.50:895][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-01.07.51:001][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.23-01.07.51:014][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.23-01.07.51:022][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.23-01.07.51:033][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.62 sec)
