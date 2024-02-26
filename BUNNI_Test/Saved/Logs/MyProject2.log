@@ -4040,3 +4040,632 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.26-00.45.09:448][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto7
 [2024.02.26-00.45.09:448][  4]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_EA739F73_Auto4888154B46AB8C0D5DCBCAA35B6BCC7A.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto7.uasset'
 [2024.02.26-00.45.09:449][  4]LogFileHelpers: Auto-saving content packages took 0.082
+[2024.02.26-00.47.22:383][340]LogStaticMesh: Warning: CubeGridToolOutput_4D5C571A has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.47.22:384][340]LogStaticMesh: Warning: CubeGridToolOutput_4D5C571A has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.47.25:542][340]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 624 triangles, CubeGridToolOutput_4D5C571A
+[2024.02.26-00.47.28:641][340]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 624 triangles, CubeGridToolOutput_4D5C571A
+[2024.02.26-00.47.28:642][340]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_4D5C571A...
+[2024.02.26-00.47.28:652][340]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A.CubeGridToolOutput_4D5C571A
+[2024.02.26-00.47.28:654][340]LogStaticMesh: Warning: CubeGridToolOutput_4D5C571A has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.47.28:654][340]LogStaticMesh: Warning: CubeGridToolOutput_4D5C571A has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.47.33:966][454]LogMeshUtilities: Finished distance field build in 5.3s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 626 triangles, CubeGridToolOutput_4D5C571A
+[2024.02.26-00.48.16:112][587]Cmd: SELECT NONE
+[2024.02.26-00.49.16:810][482]LogDerivedDataCache: C:/Users/linab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.032 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6356 files in 7772 folders with total size 596 MiB.
+[2024.02.26-00.49.24:468][753]Cmd: SELECT NONE
+[2024.02.26-00.49.53:532][989]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.53:532][989]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.49.53:706][991]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.53:706][991]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-00.49.53:912][994]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.53:912][994]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.49.54:151][  0]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.54:151][  0]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-00.49.54:472][ 12]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.54:472][ 12]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.49.54:794][ 24]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.54:794][ 24]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-00.49.55:058][ 34]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.55:058][ 34]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.49.55:322][ 44]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.55:322][ 44]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-00.49.55:563][ 53]Cmd: TRANSACTION UNDO
+[2024.02.26-00.49.55:564][ 53]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.52.29:230][760]Cmd: TRANSACTION UNDO
+[2024.02.26-00.52.29:230][760]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-00.53.12:043][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C.CubeGridToolOutput_4367071C
+[2024.02.26-00.53.12:043][516]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_4367071C...
+[2024.02.26-00.53.12:050][516]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C.CubeGridToolOutput_4367071C
+[2024.02.26-00.53.12:051][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C.CubeGridToolOutput_4367071C as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C5DC01_1654941224
+[2024.02.26-00.53.12:052][516]LogStaticMesh: Warning: CubeGridToolOutput_4367071C has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.53.12:052][516]LogStaticMesh: Warning: CubeGridToolOutput_4367071C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-00.53.15:449][617]Cmd: TRANSACTION UNDO
+[2024.02.26-00.53.15:449][617]LogEditorTransaction: Undo Set Rotation
+[2024.02.26-00.53.16:940][653]Cmd: TRANSACTION UNDO
+[2024.02.26-00.53.16:940][653]LogEditorTransaction: Undo Set Rotation
+[2024.02.26-00.54.31:665][366]Cmd: TRANSACTION UNDO
+[2024.02.26-00.54.31:665][366]LogEditorTransaction: Undo Set Rotation
+[2024.02.26-00.54.33:749][407]Cmd: TRANSACTION UNDO
+[2024.02.26-00.54.33:750][407]LogEditorTransaction: Undo Set Rotation
+[2024.02.26-00.54.51:517][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.26-00.54.51:532][781]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.26-00.54.51:532][781]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.02.26-00.54.51:538][781]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 134 ms)
+[2024.02.26-00.54.51:538][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.26-00.54.51:538][781]PIE: New page: PIE session: FirstPersonMap (Feb 25, 2024, 2:54:51 PM)
+[2024.02.26-00.54.51:539][781]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-00.54.51:565][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026585s)
+[2024.02.26-00.54.51:565][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026672s)
+[2024.02.26-00.54.51:583][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.26-00.54.51:587][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-00.54.51:588][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-00.54.51:590][781]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.26-00.54.51:593][781]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.26-00.54.51:593][781]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.26-00.54.51:593][781]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.26-00.54.51:593][781]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.26-00.54.51:596][781]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.26-00.54.51:596][781]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 789 ms)
+[2024.02.26-00.54.51:596][781]LogPlayLevel: PIE: World Init took: (0.009482s)
+[2024.02.26-00.54.51:596][781]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.26-00.54.51:596][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.26-00.54.51:597][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.26-00.54.51:597][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.26-00.54.51:597][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.26-00.54.51:597][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.26-00.54.51:597][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.26-00.54.51:602][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.26-00.54.51:632][781]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.26-00.54.51:633][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.26-00.54.51:633][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.26-00.54.51:633][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.26-00.54.51:635][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.02.26-00.54.51:635][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.02.26-00.54.51:638][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.02.26-00.54.51:638][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.02.26-00.54.51:638][781]LogInit: FAudioDevice initialized with ID 19.
+[2024.02.26-00.54.51:639][781]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap'.
+[2024.02.26-00.54.51:639][781]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.26-00.54.51:646][781]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.26-00.54.51:661][781]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.02.25-19.54.51
+[2024.02.26-00.54.51:662][781]LogWorld: Bringing up level for play took: 0.014333
+[2024.02.26-00.54.51:665][781]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.26-00.54.51:669][781]PIE: Server logged in
+[2024.02.26-00.54.51:670][781]PIE: Play in editor total start time 0.137 seconds.
+[2024.02.26-00.55.01:326][997]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2024.02.26-00.57.06:920][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-00.57.06:920][254]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-00.57.06:921][254]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-00.57.06:924][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-00.57.06:924][254]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.26-00.57.06:959][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.26-00.57.06:964][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-00.57.07:002][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-00.57.07:002][254]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.26-00.57.07:002][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.26-00.57.07:006][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.26-00.57.07:020][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.26-00.57.07:123][255]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.26-00.57.11:658][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.26-00.57.11:679][313]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.26-00.57.11:679][313]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.02.26-00.57.11:683][313]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 139 ms)
+[2024.02.26-00.57.11:683][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.26-00.57.11:683][313]PIE: New page: PIE session: FirstPersonMap (Feb 25, 2024, 2:57:11 PM)
+[2024.02.26-00.57.11:683][313]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-00.57.11:704][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020712s)
+[2024.02.26-00.57.11:704][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.020778s)
+[2024.02.26-00.57.11:731][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.26-00.57.11:733][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-00.57.11:733][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-00.57.11:733][313]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.26-00.57.11:735][313]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.26-00.57.11:735][313]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.26-00.57.11:735][313]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.26-00.57.11:735][313]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.26-00.57.11:739][313]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.26-00.57.11:739][313]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 794 ms)
+[2024.02.26-00.57.11:740][313]LogPlayLevel: PIE: World Init took: (0.007591s)
+[2024.02.26-00.57.11:740][313]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.26-00.57.11:740][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.26-00.57.11:740][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.26-00.57.11:740][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.26-00.57.11:740][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.26-00.57.11:740][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.26-00.57.11:743][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.26-00.57.11:767][313]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.26-00.57.11:767][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.26-00.57.11:768][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.26-00.57.11:768][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.26-00.57.11:770][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.02.26-00.57.11:770][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.02.26-00.57.11:774][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.02.26-00.57.11:774][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.02.26-00.57.11:774][313]LogInit: FAudioDevice initialized with ID 20.
+[2024.02.26-00.57.11:774][313]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonMap'.
+[2024.02.26-00.57.11:774][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.02.26-00.57.11:778][313]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.26-00.57.11:789][313]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.25-19.57.11
+[2024.02.26-00.57.11:790][313]LogWorld: Bringing up level for play took: 0.011735
+[2024.02.26-00.57.11:794][313]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.26-00.57.11:797][313]PIE: Server logged in
+[2024.02.26-00.57.11:799][313]PIE: Play in editor total start time 0.12 seconds.
+[2024.02.26-00.57.47:698][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-00.57.47:699][170]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-00.57.47:699][170]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-00.57.47:701][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-00.57.47:702][170]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.26-00.57.47:739][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.26-00.57.47:752][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-00.57.47:787][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-00.57.47:788][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.02.26-00.57.47:789][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.26-00.57.47:792][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.26-00.57.47:809][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.26-00.57.47:913][171]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.26-00.57.53:599][282]Cmd: SELECT NONE
+[2024.02.26-00.58.10:848][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-00.58.11:043][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.26-00.58.11:052][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.02.26-00.58.11:061][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.26-00.58.11:064][632]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GD/5NABXUMYHTSSL66TBI25DQ
+[2024.02.26-00.58.11:066][632]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/5NABXUMYHTSSL66TBI25DQ79971A564D4AD4A52EC81EB837A939BA.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GD/5NABXUMYHTSSL66TBI25DQ.uasset'
+[2024.02.26-00.58.11:070][632]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/HP/YOCX7KVPLNH2EX7NMQSCPG
+[2024.02.26-00.58.11:070][632]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/YOCX7KVPLNH2EX7NMQSCPG1E6E4A35456CCD4C404760AFF9F5E580.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/HP/YOCX7KVPLNH2EX7NMQSCPG.uasset'
+[2024.02.26-00.58.11:073][632]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O0/CQP7PK8NQWU8TVE74UN0J0
+[2024.02.26-00.58.11:073][632]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CQP7PK8NQWU8TVE74UN0J0FD118AC44596932C89D75185D3A208EC.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O0/CQP7PK8NQWU8TVE74UN0J0.uasset'
+[2024.02.26-00.58.11:096][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 13.8 sec)
+[2024.02.26-00.58.11:103][632]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.26-00.58.11:104][632]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23D0DB01_1378413032
+[2024.02.26-00.58.11:104][632]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C5DC01_1728001225
+[2024.02.26-00.58.11:104][632]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C5DC01_1654941224
+[2024.02.26-00.58.30:124][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-00.58.30:274][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.26-00.58.30:287][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.26-00.58.30:296][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.26-00.58.30:298][ 41]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DV/X7IZ64X5TKWWDSZSIDYLD6
+[2024.02.26-00.58.30:300][ 41]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/X7IZ64X5TKWWDSZSIDYLD6FB2E76FD4DE4168413CC34A6878CFA40.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DV/X7IZ64X5TKWWDSZSIDYLD6.uasset'
+[2024.02.26-00.58.30:320][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 14.0 sec)
+[2024.02.26-00.58.30:323][ 41]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_401A584EAC23C2DC01_1746944657
+[2024.02.26-00.58.30:323][ 41]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C2DC01_1746944657
+[2024.02.26-00.58.54:518][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.26-00.58.54:520][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.02.26-00.58.54:520][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A] ([1] browsable assets)...
+[2024.02.26-00.58.54:563][567]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A.CubeGridToolOutput_4D5C571A]
+[2024.02.26-00.58.54:563][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A]
+[2024.02.26-00.58.54:572][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A_Auto8
+[2024.02.26-00.58.54:572][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_4D5C571A_AutoFB2108C146EAED278CE8D68BCF87BF5B.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A_Auto8.uasset'
+[2024.02.26-00.58.54:573][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F] ([1] browsable assets)...
+[2024.02.26-00.58.54:573][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F]
+[2024.02.26-00.58.54:576][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F_Auto8
+[2024.02.26-00.58.54:576][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_42F23A3F_Auto435B202945FA7AA30CAAD6BA5C544584.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F_Auto8.uasset'
+[2024.02.26-00.58.54:577][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF] ([1] browsable assets)...
+[2024.02.26-00.58.54:577][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF]
+[2024.02.26-00.58.54:580][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF_Auto8
+[2024.02.26-00.58.54:580][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_1AC26FCF_Auto955DE4B44ABDAD616489F8A683361FA5.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF_Auto8.uasset'
+[2024.02.26-00.58.54:581][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B] ([1] browsable assets)...
+[2024.02.26-00.58.54:581][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B]
+[2024.02.26-00.58.54:584][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B_Auto8
+[2024.02.26-00.58.54:584][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_F4503C0B_Auto004143DB409C01DCAD48D5BD056D5A23.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B_Auto8.uasset'
+[2024.02.26-00.58.54:586][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/VREditor/LaserPointer/Purple_Laser] ([1] browsable assets)...
+[2024.02.26-00.58.54:586][567]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/LaserPointer/Purple_Laser]
+[2024.02.26-00.58.54:588][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/LaserPointer/Purple_Laser_Auto8
+[2024.02.26-00.58.54:588][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Purple_Laser_Auto8C4D8AF354A97554F13CD408F86707D55.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Engine/VREditor/LaserPointer/Purple_Laser_Auto8.uasset'
+[2024.02.26-00.58.54:589][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A] ([1] browsable assets)...
+[2024.02.26-00.58.54:589][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A]
+[2024.02.26-00.58.54:591][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A_Auto8
+[2024.02.26-00.58.54:591][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Box_9E28D94A_Auto80C33BDC741653AE9005FD98BEAA2D135.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A_Auto8.uasset'
+[2024.02.26-00.58.54:592][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A] ([1] browsable assets)...
+[2024.02.26-00.58.54:592][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A]
+[2024.02.26-00.58.54:595][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A_Auto8
+[2024.02.26-00.58.54:595][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_5249D94A_AutoD3BAF5AC417F0FE2F473DD884BA79064.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A_Auto8.uasset'
+[2024.02.26-00.58.54:596][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336] ([1] browsable assets)...
+[2024.02.26-00.58.54:596][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336]
+[2024.02.26-00.58.54:600][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336_Auto8
+[2024.02.26-00.58.54:600][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_1DCA9336_Auto2CAC813248F239DBA46D52B38B0D0F11.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336_Auto8.uasset'
+[2024.02.26-00.58.54:601][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1] ([1] browsable assets)...
+[2024.02.26-00.58.54:601][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1]
+[2024.02.26-00.58.54:604][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1_Auto8
+[2024.02.26-00.58.54:604][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_80B8F0B1_Auto8D2D34684FD74950D854608795BB7945.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1_Auto8.uasset'
+[2024.02.26-00.58.54:604][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73] ([1] browsable assets)...
+[2024.02.26-00.58.54:604][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73]
+[2024.02.26-00.58.54:608][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto8
+[2024.02.26-00.58.54:608][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_EA739F73_AutoC37BE04F4CE0D4E345F775985BF9B9E2.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto8.uasset'
+[2024.02.26-00.58.54:609][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C] ([1] browsable assets)...
+[2024.02.26-00.58.54:632][567]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C.CubeGridToolOutput_4367071C]
+[2024.02.26-00.58.54:632][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C]
+[2024.02.26-00.58.54:635][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C_Auto8
+[2024.02.26-00.58.54:635][567]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_4367071C_AutoFCBB1E6B442F4CF33780C09C27FA6040.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C_Auto8.uasset'
+[2024.02.26-00.58.54:636][567]LogFileHelpers: Auto-saving content packages took 0.116
+[2024.02.26-01.00.30:472][568]Cmd: SELECT NONE
+[2024.02.26-01.01.37:926][216]Cmd: TRANSACTION UNDO
+[2024.02.26-01.01.37:926][216]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.06.11:134][710]Cmd: TRANSACTION UNDO
+[2024.02.26-01.06.11:134][710]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.06.36:841][629]Cmd: TRANSACTION UNDO
+[2024.02.26-01.06.36:842][629]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.06.58:644][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.06.58:772][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.26-01.06.58:781][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.26-01.06.58:790][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.26-01.06.58:814][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 14.2 sec)
+[2024.02.26-01.07.00:068][465]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_CC3E3087...
+[2024.02.26-01.07.00:069][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087.CubeGridToolOutput_CC3E3087
+[2024.02.26-01.07.00:072][465]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087.CubeGridToolOutput_CC3E3087 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1409223402
+[2024.02.26-01.07.00:079][465]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087.CubeGridToolOutput_CC3E3087
+[2024.02.26-01.07.00:085][465]LogStaticMesh: Warning: CubeGridToolOutput_CC3E3087 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-01.07.00:085][465]LogStaticMesh: Warning: CubeGridToolOutput_CC3E3087 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.26-01.07.19:658][  8]Cmd: SELECT NONE
+[2024.02.26-01.08.29:075][713]Cmd: TRANSACTION UNDO
+[2024.02.26-01.08.29:075][713]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.08.30:906][771]Cmd: TRANSACTION UNDO
+[2024.02.26-01.08.30:906][771]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-01.08.37:519][ 43]Cmd: TRANSACTION UNDO
+[2024.02.26-01.08.37:520][ 43]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.08.37:859][ 47]Cmd: TRANSACTION UNDO
+[2024.02.26-01.08.37:860][ 47]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.08.39:361][ 98]Cmd: TRANSACTION UNDO
+[2024.02.26-01.08.39:362][ 98]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-01.08.46:455][367]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A5206F4F...
+[2024.02.26-01.08.46:455][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F.CubeGridToolOutput_A5206F4F
+[2024.02.26-01.08.46:460][367]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F.CubeGridToolOutput_A5206F4F
+[2024.02.26-01.08.46:463][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F.CubeGridToolOutput_A5206F4F as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.08.56:954][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.08.57:059][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.26-01.08.57:070][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.26-01.08.57:078][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.26-01.08.57:082][639]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3
+[2024.02.26-01.08.57:082][639]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/6KZVV42X1T8F5D6GOMS4K3E5D3CDC44AB8D093B6F873A8F9950C60.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3.uasset'
+[2024.02.26-01.08.57:088][639]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5
+[2024.02.26-01.08.57:088][639]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/WN826NJ3V6PD801BDRLWW553E8BBA94725ACD38D1143BFDC566AB7.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5.uasset'
+[2024.02.26-01.08.57:110][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 14.3 sec)
+[2024.02.26-01.08.57:112][639]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.26-01.08.57:112][639]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1409223402
+[2024.02.26-01.08.57:112][639]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.09.05:744][887]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.05:744][887]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.26-01.09.06:031][889]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.06:031][889]LogEditorTransaction: Undo Cube Grid Create New
+[2024.02.26-01.09.06:186][890]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.06:188][890]LogEditorTransaction: Undo Select None
+[2024.02.26-01.09.06:344][891]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.06:344][891]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.26-01.09.06:489][892]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.06:490][892]LogEditorTransaction: Undo Cube Grid Create New
+[2024.02.26-01.09.06:815][898]Cmd: TRANSACTION UNDO
+[2024.02.26-01.09.06:815][898]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.26-01.09.12:204][ 48]Cmd: TRANSACTION REDO
+[2024.02.26-01.09.12:204][ 48]LogEditorTransaction: Redo Clicking on Elements
+[2024.02.26-01.09.13:395][ 70]Cmd: TRANSACTION REDO
+[2024.02.26-01.09.13:395][ 70]LogEditorTransaction: Redo Cube Grid Create New
+[2024.02.26-01.09.15:133][107]Cmd: TRANSACTION REDO
+[2024.02.26-01.09.15:133][107]LogEditorTransaction: Redo Clicking on Elements
+[2024.02.26-01.09.16:773][146]Cmd: TRANSACTION REDO
+[2024.02.26-01.09.16:773][146]LogEditorTransaction: Redo Select None
+[2024.02.26-01.09.18:275][179]Cmd: TRANSACTION REDO
+[2024.02.26-01.09.18:276][179]LogEditorTransaction: Redo Cube Grid Create New
+[2024.02.26-01.10.20:411][429]Cmd: TRANSACTION UNDO
+[2024.02.26-01.10.20:411][429]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.02.26-01.10.20:972][435]Cmd: TRANSACTION UNDO
+[2024.02.26-01.10.20:972][435]LogEditorTransaction: Undo Block Tool Change
+[2024.02.26-01.10.21:991][470]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A5206F4F...
+[2024.02.26-01.10.21:993][470]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F.CubeGridToolOutput_A5206F4F
+[2024.02.26-01.10.24:574][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.10.24:697][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.26-01.10.24:709][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.26-01.10.24:720][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.26-01.10.24:724][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5
+[2024.02.26-01.10.24:725][541]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/WN826NJ3V6PD801BDRLWW5A72071F14BDEDD07D306F582A7D4BB38.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5.uasset'
+[2024.02.26-01.10.24:749][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 14.5 sec)
+[2024.02.26-01.10.24:753][541]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.10.24:753][541]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.10.40:178][883]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue
+[2024.02.26-01.10.40:191][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-01.10.40:191][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-01.10.40:584][883]LogViewport: Scene viewport resized to 939x700, mode Windowed.
+[2024.02.26-01.10.48:271][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.26-01.11.00:296][246]LogSlate: Window 'Save Asset As' being destroyed
+[2024.02.26-01.11.03:115][320]LogSlate: Window 'MI_Solid_Blue' being destroyed
+[2024.02.26-01.11.03:156][320]LogSlate: Window 'MI_Solid_Blue' being destroyed
+[2024.02.26-01.11.03:224][320]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-01.11.03:224][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.11.03:301][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.26-01.11.03:376][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.26-01.11.03:401][320]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-01.11.03:401][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.12.25:366][ 39]Cmd: TRANSACTION UNDO
+[2024.02.26-01.12.25:367][ 39]LogEditorTransaction: Undo Move Elements
+[2024.02.26-01.12.53:448][636]Cmd: TRANSACTION UNDO
+[2024.02.26-01.12.53:448][636]LogEditorTransaction: Undo Set Rotation
+[2024.02.26-01.12.54:091][647]Cmd: TRANSACTION UNDO
+[2024.02.26-01.12.54:092][647]LogEditorTransaction: Undo Rotate Elements
+[2024.02.26-01.13.40:012][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.13.40:144][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.26-01.13.40:162][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.26-01.13.40:171][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.26-01.13.40:174][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3
+[2024.02.26-01.13.40:174][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/6KZVV42X1T8F5D6GOMS4K367AA37E5411B99AE473E51976B7CEFAB.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3.uasset'
+[2024.02.26-01.13.40:178][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5
+[2024.02.26-01.13.40:178][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/WN826NJ3V6PD801BDRLWW5BBA79A9944C7DE4CA42A81B417F21AEA.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5.uasset'
+[2024.02.26-01.13.40:181][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/34/HSB7IZTI6EVZGHJ6G59X7K
+[2024.02.26-01.13.40:181][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/HSB7IZTI6EVZGHJ6G59X7K4234C31C42AA09C7B6FE529724BAAC18.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/34/HSB7IZTI6EVZGHJ6G59X7K.uasset'
+[2024.02.26-01.13.40:185][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/RS/5DLG3M8DAP3H2Q8W4G6TKE
+[2024.02.26-01.13.40:185][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/5DLG3M8DAP3H2Q8W4G6TKEBEB8065542AAA32153D554AFE6C1CF9C.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/RS/5DLG3M8DAP3H2Q8W4G6TKE.uasset'
+[2024.02.26-01.13.40:187][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FJ/NZCYPZGVE9B9NNPC6PJUW3
+[2024.02.26-01.13.40:187][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/NZCYPZGVE9B9NNPC6PJUW3086DAA84451CEF6C8BF02AB66A730907.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FJ/NZCYPZGVE9B9NNPC6PJUW3.uasset'
+[2024.02.26-01.13.40:192][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/T1/69ILW24UDNN7F6OV9OJNNI
+[2024.02.26-01.13.40:192][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/69ILW24UDNN7F6OV9OJNNIF91773034ED75DD37D8344A186370166.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/T1/69ILW24UDNN7F6OV9OJNNI.uasset'
+[2024.02.26-01.13.40:195][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V8/YFMH9Y8XXN2S6M6KVXSEIY
+[2024.02.26-01.13.40:195][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/YFMH9Y8XXN2S6M6KVXSEIY830484B0478B7B69E12E44B9155D568E.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V8/YFMH9Y8XXN2S6M6KVXSEIY.uasset'
+[2024.02.26-01.13.40:198][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KJ/S4K1LLB2RYEAZXFE1975XM
+[2024.02.26-01.13.40:198][589]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/S4K1LLB2RYEAZXFE1975XM0A27E009446391A8E645DAB63BFEC328.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KJ/S4K1LLB2RYEAZXFE1975XM.uasset'
+[2024.02.26-01.13.40:218][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 14.7 sec)
+[2024.02.26-01.13.40:230][589]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1409223402
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1724741404
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1724744405
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735710406
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735713407
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735715408
+[2024.02.26-01.13.40:230][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735720409
+[2024.02.26-01.13.53:742][871]Cmd: DELETE
+[2024.02.26-01.13.53:742][871]Cmd: ACTOR DELETE
+[2024.02.26-01.13.53:749][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.26-01.13.53:773][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.26-01.13.53:778][871]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.02.26-01.13.55:473][905]Cmd: DELETE
+[2024.02.26-01.13.55:475][905]Cmd: ACTOR DELETE
+[2024.02.26-01.13.55:478][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.26-01.13.55:499][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.26-01.13.55:507][905]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.02.26-01.15.47:279][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.15.47:443][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.26-01.15.47:453][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.26-01.15.47:465][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.26-01.15.47:467][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3
+[2024.02.26-01.15.47:468][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/6KZVV42X1T8F5D6GOMS4K32608426A42C95A4205879C9420C10B17.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/6KZVV42X1T8F5D6GOMS4K3.uasset'
+[2024.02.26-01.15.47:471][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5
+[2024.02.26-01.15.47:472][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/WN826NJ3V6PD801BDRLWW5031682CF422B424A7E0864AD6EA3CCC1.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T3/WN826NJ3V6PD801BDRLWW5.uasset'
+[2024.02.26-01.15.47:475][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/34/HSB7IZTI6EVZGHJ6G59X7K
+[2024.02.26-01.15.47:475][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/HSB7IZTI6EVZGHJ6G59X7K79F4A87446B93D83E7DCF1B30A1ACCE6.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/34/HSB7IZTI6EVZGHJ6G59X7K.uasset'
+[2024.02.26-01.15.47:478][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/RS/5DLG3M8DAP3H2Q8W4G6TKE
+[2024.02.26-01.15.47:479][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/5DLG3M8DAP3H2Q8W4G6TKEAC93F17A4F7ED59525BBDA96B81C7080.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/RS/5DLG3M8DAP3H2Q8W4G6TKE.uasset'
+[2024.02.26-01.15.47:481][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V8/YFMH9Y8XXN2S6M6KVXSEIY
+[2024.02.26-01.15.47:482][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/YFMH9Y8XXN2S6M6KVXSEIY1D5CD9654EA7736BFF6E3A884790B77C.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V8/YFMH9Y8XXN2S6M6KVXSEIY.uasset'
+[2024.02.26-01.15.47:484][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KJ/S4K1LLB2RYEAZXFE1975XM
+[2024.02.26-01.15.47:485][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/S4K1LLB2RYEAZXFE1975XM20FDD2644C61DBC0427F0397BCBB49E4.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KJ/S4K1LLB2RYEAZXFE1975XM.uasset'
+[2024.02.26-01.15.47:487][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W4/LVDDW8LRYSAWSH4ZPWUD9Q
+[2024.02.26-01.15.47:487][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/LVDDW8LRYSAWSH4ZPWUD9Q0585D1D442F7494A7F43B38A59F36924.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W4/LVDDW8LRYSAWSH4ZPWUD9Q.uasset'
+[2024.02.26-01.15.47:490][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TB/I83JGIDQBQGPWQ75Y71EC7
+[2024.02.26-01.15.47:490][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/I83JGIDQBQGPWQ75Y71EC7084322044EC59EE86936C48D7CB6870C.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TB/I83JGIDQBQGPWQ75Y71EC7.uasset'
+[2024.02.26-01.15.47:493][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KI/4G258D4D3HT4S3ACEOFEDB
+[2024.02.26-01.15.47:493][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/4G258D4D3HT4S3ACEOFEDBC02A2233493B9FBE67058CAEB4D1EF9E.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KI/4G258D4D3HT4S3ACEOFEDB.uasset'
+[2024.02.26-01.15.47:494][195]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KE/TOBSNQHG3JJ0STNFMC8UG4
+[2024.02.26-01.15.47:494][195]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/TOBSNQHG3JJ0STNFMC8UG421F9D6B246C8EA62621FE38535B8E28B.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KE/TOBSNQHG3JJ0STNFMC8UG4.uasset'
+[2024.02.26-01.15.47:519][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 239 ms (total: 15.0 sec)
+[2024.02.26-01.15.47:527][195]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.26-01.15.47:527][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1409223402
+[2024.02.26-01.15.47:527][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1515610403
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1724741404
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1724744405
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735715408
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1735720409
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1853309410
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1853314411
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1873166412
+[2024.02.26-01.15.47:528][195]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_401A584EAC23C6DC01_1873176413
+[2024.02.26-01.15.47:888][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.26-01.15.47:902][205]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.26-01.15.47:903][205]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.02.26-01.15.47:908][205]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 144 ms)
+[2024.02.26-01.15.47:909][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.26-01.15.47:909][205]PIE: New page: PIE session: FirstPersonMap (Feb 25, 2024, 3:15:47 PM)
+[2024.02.26-01.15.47:909][205]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-01.15.47:932][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021987s)
+[2024.02.26-01.15.47:932][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.022065s)
+[2024.02.26-01.15.47:945][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.26-01.15.47:947][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-01.15.47:947][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-01.15.47:948][205]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.26-01.15.47:950][205]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.26-01.15.47:950][205]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.26-01.15.47:950][205]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.26-01.15.47:950][205]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.26-01.15.47:954][205]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.26-01.15.47:954][205]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 798 ms)
+[2024.02.26-01.15.47:954][205]LogPlayLevel: PIE: World Init took: (0.007388s)
+[2024.02.26-01.15.47:954][205]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.26-01.15.47:954][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.26-01.15.47:954][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.26-01.15.47:954][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.26-01.15.47:954][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.26-01.15.47:954][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.26-01.15.47:955][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.26-01.15.47:955][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.26-01.15.47:955][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.26-01.15.47:955][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.26-01.15.47:955][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.26-01.15.47:955][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.26-01.15.47:958][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.26-01.15.47:992][205]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.26-01.15.47:993][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.26-01.15.47:993][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.26-01.15.47:993][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.26-01.15.47:994][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.02.26-01.15.47:995][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.02.26-01.15.47:997][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.02.26-01.15.47:997][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.02.26-01.15.47:997][205]LogInit: FAudioDevice initialized with ID 21.
+[2024.02.26-01.15.47:997][205]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonMap'.
+[2024.02.26-01.15.47:997][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.26-01.15.48:001][205]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.26-01.15.48:014][205]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.25-20.15.48
+[2024.02.26-01.15.48:017][205]LogWorld: Bringing up level for play took: 0.014757
+[2024.02.26-01.15.48:020][205]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.02.26-01.15.48:024][205]PIE: Server logged in
+[2024.02.26-01.15.48:025][205]PIE: Play in editor total start time 0.123 seconds.
+[2024.02.26-01.16.31:488][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-01.16.31:490][286]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-01.16.31:490][286]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-01.16.31:492][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.16.31:492][286]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.26-01.16.31:520][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.26-01.16.31:529][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.16.31:560][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-01.16.31:561][286]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.26-01.16.31:561][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.26-01.16.31:567][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.26-01.16.31:581][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.26-01.16.31:659][287]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.02.26-01.16.37:105][388]Cmd: SELECT NONE
+[2024.02.26-01.17.19:678][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.17.19:815][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.26-01.17.19:829][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.26-01.17.19:839][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.02.26-01.17.19:863][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 15.2 sec)
+[2024.02.26-01.17.26:758][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.26-01.17.26:770][812]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.26-01.17.26:770][812]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.02.26-01.17.26:782][812]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11 ms (total: 156 ms)
+[2024.02.26-01.17.26:783][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.26-01.17.26:783][812]PIE: New page: PIE session: FirstPersonMap (Feb 25, 2024, 3:17:26 PM)
+[2024.02.26-01.17.26:789][812]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-01.17.26:803][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013242s)
+[2024.02.26-01.17.26:803][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.013333s)
+[2024.02.26-01.17.26:822][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.26-01.17.26:823][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-01.17.26:823][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-01.17.26:824][812]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.26-01.17.26:824][812]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.26-01.17.26:825][812]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.26-01.17.26:825][812]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.26-01.17.26:825][812]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.26-01.17.26:827][812]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.26-01.17.26:827][812]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 801 ms)
+[2024.02.26-01.17.26:827][812]LogPlayLevel: PIE: World Init took: (0.004431s)
+[2024.02.26-01.17.26:828][812]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.26-01.17.26:828][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.26-01.17.26:828][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.26-01.17.26:828][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.26-01.17.26:828][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.26-01.17.26:828][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.26-01.17.26:831][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.26-01.17.26:850][812]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.26-01.17.26:850][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.26-01.17.26:850][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.26-01.17.26:850][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.26-01.17.26:851][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.02.26-01.17.26:851][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.02.26-01.17.26:853][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.02.26-01.17.26:853][812]LogInit: FAudioDevice initialized with ID 22.
+[2024.02.26-01.17.26:853][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.02.26-01.17.26:853][812]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonMap'.
+[2024.02.26-01.17.26:853][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.02.26-01.17.26:856][812]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.26-01.17.26:866][812]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.25-20.17.26
+[2024.02.26-01.17.26:867][812]LogWorld: Bringing up level for play took: 0.011182
+[2024.02.26-01.17.26:870][812]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.02.26-01.17.26:874][812]PIE: Server logged in
+[2024.02.26-01.17.26:875][812]PIE: Play in editor total start time 0.104 seconds.
+[2024.02.26-01.17.42:708][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-01.17.42:709][158]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.26-01.17.42:710][158]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-01.17.42:715][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.17.42:716][158]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.26-01.17.42:769][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.26-01.17.42:783][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-01.17.42:820][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-01.17.42:820][158]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.02.26-01.17.42:820][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.26-01.17.42:824][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.26-01.17.42:843][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.26-01.17.42:878][159]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.02.26-01.17.45:534][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-01.17.45:704][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.02.26-01.17.45:715][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.26-01.17.45:724][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.26-01.17.45:742][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 15.4 sec)
+[2024.02.26-01.17.53:002][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.26-01.17.53:004][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.02.26-01.17.53:006][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Blue] ([1] browsable assets)...
+[2024.02.26-01.17.53:057][247]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue]
+[2024.02.26-01.17.53:058][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Blue]
+[2024.02.26-01.17.53:061][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Blue_Auto9
+[2024.02.26-01.17.53:061][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/MI_Solid_Blue_Auto9142B4F3E41C680DA6C81598703613E9C.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Blue_Auto9.uasset'
+[2024.02.26-01.17.53:062][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A] ([1] browsable assets)...
+[2024.02.26-01.17.53:062][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A]
+[2024.02.26-01.17.53:069][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A_Auto9
+[2024.02.26-01.17.53:070][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_4D5C571A_AutoB405A1024B27E973B38B258C53E80E1E.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4D5C571A_Auto9.uasset'
+[2024.02.26-01.17.53:071][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F] ([1] browsable assets)...
+[2024.02.26-01.17.53:071][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F]
+[2024.02.26-01.17.53:074][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F_Auto9
+[2024.02.26-01.17.53:074][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_42F23A3F_AutoE8554A374BDF9244A0477389A964529D.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_42F23A3F_Auto9.uasset'
+[2024.02.26-01.17.53:075][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF] ([1] browsable assets)...
+[2024.02.26-01.17.53:075][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF]
+[2024.02.26-01.17.53:078][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF_Auto9
+[2024.02.26-01.17.53:078][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_1AC26FCF_AutoBA7A65BC48379EC8482920B87B8CC041.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1AC26FCF_Auto9.uasset'
+[2024.02.26-01.17.53:078][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B] ([1] browsable assets)...
+[2024.02.26-01.17.53:079][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B]
+[2024.02.26-01.17.53:082][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B_Auto9
+[2024.02.26-01.17.53:082][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_F4503C0B_AutoD45734A343E39F6C29562181C9CB3747.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_F4503C0B_Auto9.uasset'
+[2024.02.26-01.17.53:082][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/VREditor/LaserPointer/Purple_Laser] ([1] browsable assets)...
+[2024.02.26-01.17.53:083][247]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/LaserPointer/Purple_Laser]
+[2024.02.26-01.17.53:083][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/LaserPointer/Purple_Laser_Auto9
+[2024.02.26-01.17.53:083][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Purple_Laser_Auto9CD11BCEA4779AF8AA6EB2D88BD08E354.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Engine/VREditor/LaserPointer/Purple_Laser_Auto9.uasset'
+[2024.02.26-01.17.53:084][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A] ([1] browsable assets)...
+[2024.02.26-01.17.53:084][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A]
+[2024.02.26-01.17.53:086][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A_Auto9
+[2024.02.26-01.17.53:086][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Box_9E28D94A_Auto96FB21394444B8A3B89B1FFB0E250E664.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/Box_9E28D94A_Auto9.uasset'
+[2024.02.26-01.17.53:086][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A] ([1] browsable assets)...
+[2024.02.26-01.17.53:086][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A]
+[2024.02.26-01.17.53:090][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A_Auto9
+[2024.02.26-01.17.53:091][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_5249D94A_AutoFEE4207A456447DEF123D4B400E8F3CF.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_5249D94A_Auto9.uasset'
+[2024.02.26-01.17.53:091][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336] ([1] browsable assets)...
+[2024.02.26-01.17.53:091][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336]
+[2024.02.26-01.17.53:096][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336_Auto9
+[2024.02.26-01.17.53:096][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_1DCA9336_Auto30A3EB8343F151956BA15F98A74F3469.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_1DCA9336_Auto9.uasset'
+[2024.02.26-01.17.53:096][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1] ([1] browsable assets)...
+[2024.02.26-01.17.53:096][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1]
+[2024.02.26-01.17.53:099][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1_Auto9
+[2024.02.26-01.17.53:099][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_80B8F0B1_AutoEFF1D63D443ED7F8A8004591B1843B54.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_80B8F0B1_Auto9.uasset'
+[2024.02.26-01.17.53:100][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73] ([1] browsable assets)...
+[2024.02.26-01.17.53:100][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73]
+[2024.02.26-01.17.53:101][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto9
+[2024.02.26-01.17.53:101][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_EA739F73_Auto6994B92C44D574D0839AA99D22C9A273.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_EA739F73_Auto9.uasset'
+[2024.02.26-01.17.53:102][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C] ([1] browsable assets)...
+[2024.02.26-01.17.53:102][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C]
+[2024.02.26-01.17.53:106][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C_Auto9
+[2024.02.26-01.17.53:106][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_4367071C_Auto38BA4F394EBDF5B60B285092EAB8A77A.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_4367071C_Auto9.uasset'
+[2024.02.26-01.17.53:107][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087] ([1] browsable assets)...
+[2024.02.26-01.17.53:133][247]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087.CubeGridToolOutput_CC3E3087]
+[2024.02.26-01.17.53:133][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087]
+[2024.02.26-01.17.53:138][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087_Auto9
+[2024.02.26-01.17.53:139][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_CC3E3087_AutoBC099AE143B41615847A258B871B8D75.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_CC3E3087_Auto9.uasset'
+[2024.02.26-01.17.53:139][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F] ([1] browsable assets)...
+[2024.02.26-01.17.53:163][247]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F.CubeGridToolOutput_A5206F4F]
+[2024.02.26-01.17.53:163][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F]
+[2024.02.26-01.17.53:165][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F_Auto9
+[2024.02.26-01.17.53:165][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/CubeGridToolOutput_A5206F4F_Auto676374E1473C32935A9CA598784D0965.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/linab/CubeGridToolOutput_A5206F4F_Auto9.uasset'
+[2024.02.26-01.17.53:166][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Materials/solid_purple] ([1] browsable assets)...
+[2024.02.26-01.17.53:189][247]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelPrototyping/Materials/solid_purple.solid_purple]
+[2024.02.26-01.17.53:189][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/solid_purple]
+[2024.02.26-01.17.53:192][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/solid_purple_Auto9
+[2024.02.26-01.17.53:192][247]LogSavePackage: Moving '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/solid_purple_Auto9F6AFD102450D9639129AA79D94B2F4D8.tmp' to '../../../../GitHub/B.U.N.N.I/BUNNI_Test/Saved/Autosaves/Game/LevelPrototyping/Materials/solid_purple_Auto9.uasset'
+[2024.02.26-01.17.53:192][247]LogFileHelpers: Auto-saving content packages took 0.188
